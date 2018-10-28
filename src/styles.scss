@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+.highlight {
+    background-color:#504e4e;
+    border:1px;
+    font-size: 15pt;
+    cursor: pointer;
+}
+
+.normal {
+    background-color: #fff;
+    border:1px;
+    font-size: 15pt;
+    color:#333;   
+    cursor: pointer;
+}
+
+.author {
+    font-size: 15pt;
+    color:#999;   
+}
